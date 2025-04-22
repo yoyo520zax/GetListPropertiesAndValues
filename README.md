@@ -1,2 +1,4 @@
 # GetListPropertiesAndValues
-List&lt;T> (List Name, key, value)轉為 Insert 語法
+List&lt;T> 轉為 Insert 語法
+
+T 轉為 Update 語法
